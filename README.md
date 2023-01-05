@@ -5,3 +5,4 @@ Check for NaN for in the dataset.
 For String values filling the NaN values by using fillna methods.
 For Int Values Using Simple Imputer From sklearn with stratergy = "mean.
 Dropping "id" as it is not that necessary
+Then converting all the string value into int by using Label Encoder from sklearn
